@@ -1,0 +1,65 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "image": "https://example.com/images/earbuds.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "Gaming Keyboard",
+      "image": "https://example.com/images/keyboard.jpg",
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Stand",
+      "image": "https://example.com/images/stand.jpg",
+      "price": 14.99
+    },
+    {
+      "id": 4,
+      "name": "Portable Charger",
+      "image": "https://example.com/images/charger.jpg",
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "image": "https://example.com/images/speaker.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 6,
+      "name": "LED Desk Lamp",
+      "image": "https://example.com/images/desk-lamp.jpg",
+      "price": 24.99
+    },
+    {
+      "id": 7,
+      "name": "Laptop Cooling Pad",
+      "image": "https://example.com/images/cooling-pad.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 8,
+      "name": "Noise-Cancelling Headphones",
+      "image": "https://example.com/images/headphones.jpg",
+      "price": 99.99
+    },
+    {
+      "id": 9,
+      "name": "Action Camera",
+      "image": "https://example.com/images/action-camera.jpg",
+      "price": 119.99
+    },
+    {
+      "id": 10,
+      "name": "Fitness Tracker",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "price": 59.99
+    }
+  ]
+  
+}
